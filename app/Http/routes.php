@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 
 Route::get('/task',function(){
-	return 'this is task';
+	return 'this is task from windows';
 });
 
 Route::auth();
