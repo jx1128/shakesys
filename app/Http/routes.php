@@ -16,7 +16,7 @@ Route::get('/', function () {
 });
 
 Route::get('/task',function(){
-	return 'this is ';
+	return 'this is task form jxMac';
 });
 
 Route::auth();
