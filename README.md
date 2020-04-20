@@ -1,7 +1,7 @@
 # shakesys
-This is a project for teacher to manage their students
+This is a project for teachers to manage their students
 
 
 ## License
 
- © isjx@foxmial.com
+ © isjx@foxmail.com
